@@ -17,6 +17,5 @@ To-Do List
 ## API Pricing
 ![API Pricing](Screenshots/ElevationApiPricing.PNG)
 
-## Possible Tools and Libraries to Use.
-* GeoJSON to
-* 
+## Links and Resources
+[Point Cloud Visualization Python](https://learngeodata.eu/visualise-massive-point-cloud-in-python/)
