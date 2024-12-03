@@ -1,9 +1,5 @@
 *.tmp
 .vs
 .venv/
-RiskAnalysis.docx
-ProjectPlan.docx
-sampleElevation.json
 apikey
-maps.ipynb
-takeOneJsonValue.ipynb
+guiApp.ipynb
