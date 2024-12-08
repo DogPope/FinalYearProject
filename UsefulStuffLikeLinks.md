@@ -13,9 +13,6 @@
 [GeoHack. Summit of Carrauntoohil](https://geohack.toolforge.org/geohack.php?pagename=Carrauntoohil&params=51.999445_N_9.742693_W_type:mountain_scale:100000)  
 [Distance Calculator](https://latlongdata.com/distance-calculator/)
 
-## Useful 3D map stuff
-[Elevation API](https://elevationapi.com/about) Mostly does 3d maps. Could be useful regardless.
-
 ## Elevation APIs
 [Elevation-API Europe](https://www.elevation-api.eu)
 `curl 'https://www.elevation-api.eu/v1/elevation/lat/lng?json'`

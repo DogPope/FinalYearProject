@@ -10,22 +10,10 @@ This project is going to use various technologies to assess the nearby terrain w
 Actually, as mad as it sounds, Mt. Chilliad from GTA 5 may prove useful as data sets probably already exist. Think 'already completed' model, not a custom approach.
 
 To-Do List
-- [x] Draw a bounding box around the summit of Carrauntoohil to set a search area.
-- [x] Break the bounding box down into a 2d array of coordinates to create a 3d model.
-- [x] Write a 2D Python Array to call the Google Elevation API for each point in the above bounding box.
-- [x] Research algorithms for navigating 3d spaces. Some done, but more to do.
-- [x] Research Libraries for 3D routes and n planning.
+- [ ] Plan Sprints
 
-## API Pricing
-![API Pricing](Screenshots/ElevationApiPricing.PNG)
+Document To-Do list
 
 ## Links and Resources
-[Point Cloud Visualization Python](https://learngeodata.eu/visualise-massive-point-cloud-in-python/)
 [Pathfinding over 3D spaces](https://ascane.github.io/assets/portfolio/pathfinding3d-report.pdf)
-[Artificial Intelligence - Modern Applications or something](https://aima.cs.berkeley.edu/)
-
-The bulk of this project as it exists already is in apiCalls.ipynb.
-
-Stadia Maps Elevation [API Pricing](https://stadiamaps.com/pricing/#credit-schedule)
-5 credits per request at 200,000 free credits.
-[gpxz.io](https://www.gpxz.io/#pricing)
+[Pathfinding Mountains](https://outdoors.stackexchange.com/questions/15514/are-there-any-general-rules-of-thumb-for-route-finding-up-a-mountain-without-any)
