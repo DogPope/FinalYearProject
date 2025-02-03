@@ -20,4 +20,13 @@ Rate: Less than TEN PER SECOND. That would take forever for any major project.
 [Open-Elevation](https://www.open-elevation.com/) Didn't work when I last tried it. Maybe some other time.  
 [Actual Dataset on Elevations](https://srtm.csi.cgiar.org/)  
 [Open-Mateo](https://open-meteo.com/en/docs/elevation-api) Only 10000 calls per day. Final estimate 16 days.  
-[Open-Topo-Data](https://www.opentopodata.org/) Okay, this ones even worse. 1000 calls per day. Would be finished in 160 days, or 5 months.  
+[Open-Topo-Data](https://www.opentopodata.org/) Okay, this ones even worse. 1000 calls per day. Would be finished in 160 days, or 5 months.
+
+## Python Virtual Environment Commands
+Side note: The only discernable difference between Linux and Windows in this respect is the python command. On Linux, it's 'python3', and on Windows it's 'python'
+'python3 -m venv env' - Set up new Virtual Environment called "env".
+'source env/bin/activate' - Activate Virtual Environment.
+'deactivate' - Deactivate Virtual Environment.
+
+# ES MUY IMPORTANTO / C'EST TRES IMPORTANT / E MUITO IMPORTANTE
+Make sure all files are pointing to the correct interpreter. Not just some of them.
